@@ -1,13 +1,3 @@
-# #####
-#
-# https://pysource.com
-#
-# Tutorial: Object detection using HSV Color space – OpenCV 3.4 with python 3 Tutorial 9
-#
-# URL: https://pysource.com/2018/01/31/object-detection-using-hsv-color-space-opencv-3-4-with-python-3-tutorial-9/
-# 
-# ###
-
 
 import cv2
 import numpy as np
